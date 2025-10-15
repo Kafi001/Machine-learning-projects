@@ -1,0 +1,1011 @@
+ID,Review,Sentiment,Length,PunctuationCount,UppercaseCount,SentimentScore,Source,ProductID
+822,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1081
+93,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1652
+277,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1843
+926,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1883
+155,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1082
+530,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1660
+951,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1728
+699,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1441
+378,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1960
+948,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1672
+781,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1456
+229,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1794
+43,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1823
+937,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1650
+256,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1437
+765,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1439
+616,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1675
+715,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1739
+366,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1361
+82,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1092
+114,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1349
+593,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1896
+573,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1426
+613,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1548
+862,It's alright but could be better.,Neutral,6,1,1,0,Website A,1152
+619,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1433
+562,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1571
+917,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1368
+953,It's alright but could be better.,Neutral,6,1,1,0,Website B,1684
+17,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1319
+191,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1831
+189,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1965
+693,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1510
+237,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1119
+145,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1110
+784,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1922
+903,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1841
+109,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1661
+900,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1042
+128,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1862
+964,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1612
+388,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1995
+735,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1705
+18,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1359
+284,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1867
+576,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1229
+305,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1537
+179,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1601
+561,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1327
+872,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1251
+884,It's alright but could be better.,Neutral,6,1,1,0,Website C,1505
+394,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1975
+421,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1675
+22,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1554
+946,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1135
+697,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1012
+794,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1849
+88,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1771
+868,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1360
+598,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1975
+931,It's alright but could be better.,Neutral,6,1,1,0,Website C,1951
+124,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1113
+26,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1265
+184,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1923
+23,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1198
+547,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1188
+568,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1733
+704,It's alright but could be better.,Neutral,6,1,1,0,Website B,1723
+635,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1580
+200,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1766
+30,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1842
+90,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1265
+272,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1529
+196,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1623
+225,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1626
+949,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1271
+738,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1863
+981,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1506
+81,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1634
+194,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1839
+96,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1068
+670,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1796
+401,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1850
+73,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1147
+824,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1831
+39,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1165
+514,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1290
+915,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1567
+58,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1488
+385,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1261
+740,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1802
+381,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1600
+222,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1329
+382,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1043
+970,It's alright but could be better.,Neutral,6,1,1,0,Website B,1870
+477,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1751
+19,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1879
+47,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1942
+340,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1668
+427,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1056
+462,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1598
+165,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1061
+572,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1504
+428,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1517
+499,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1436
+138,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1861
+585,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1213
+223,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1871
+639,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1347
+995,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1754
+611,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1136
+994,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1260
+306,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1168
+472,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1544
+967,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1138
+821,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1300
+28,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1488
+230,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1398
+252,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1079
+630,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1783
+825,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1718
+52,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1626
+962,It's alright but could be better.,Neutral,6,1,1,0,Website A,1627
+348,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1250
+261,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1186
+459,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1642
+167,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1949
+224,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1962
+916,It's alright but could be better.,Neutral,6,1,1,0,Website A,1428
+950,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1943
+662,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1921
+37,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1276
+67,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1287
+810,It's alright but could be better.,Neutral,6,1,1,0,Website B,1315
+751,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1370
+269,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1484
+389,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1912
+653,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1067
+377,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1527
+730,It's alright but could be better.,Neutral,6,1,1,0,Website A,1529
+631,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1736
+201,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1866
+141,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1939
+990,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1371
+221,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1650
+976,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1150
+402,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1148
+34,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1296
+213,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1220
+319,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1713
+264,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1748
+142,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1589
+159,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1274
+406,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1700
+508,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1700
+707,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1297
+296,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1053
+626,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1515
+146,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1290
+363,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1281
+556,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1011
+121,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1658
+169,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1505
+706,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1146
+178,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1878
+371,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1630
+315,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1312
+668,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1863
+743,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1184
+861,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1373
+766,It's alright but could be better.,Neutral,6,1,1,0,Website B,1297
+986,It's alright but could be better.,Neutral,6,1,1,0,Website C,1303
+540,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1689
+829,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1420
+965,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1311
+528,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1521
+211,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1484
+787,It's alright but could be better.,Neutral,6,1,1,0,Website C,1696
+286,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1741
+966,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1388
+238,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1826
+439,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1578
+185,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1137
+48,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1933
+192,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1701
+413,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1246
+291,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1635
+646,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1646
+984,It's alright but could be better.,Neutral,6,1,1,0,Website C,1337
+978,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1078
+53,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1397
+322,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1170
+71,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1086
+762,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1545
+553,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1773
+521,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1683
+834,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1788
+33,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1143
+279,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1476
+902,It's alright but could be better.,Neutral,6,1,1,0,Website C,1159
+38,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1744
+928,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1896
+509,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1293
+807,It's alright but could be better.,Neutral,6,1,1,0,Website C,1052
+492,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1911
+173,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1857
+663,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1647
+209,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1027
+698,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1157
+294,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1390
+554,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1698
+186,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1123
+312,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1642
+120,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1262
+408,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1908
+440,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1143
+644,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1578
+523,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1518
+429,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1219
+648,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1519
+320,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1769
+106,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1139
+904,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1116
+8,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1833
+700,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1942
+241,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1751
+999,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1634
+80,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1048
+29,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1734
+162,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1043
+542,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1346
+259,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1504
+526,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1769
+474,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1256
+622,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1048
+843,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1352
+813,It's alright but could be better.,Neutral,6,1,1,0,Website A,1390
+458,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1374
+473,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1281
+164,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1107
+914,It's alright but could be better.,Neutral,6,1,1,0,Website A,1760
+800,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1710
+512,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1377
+170,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1152
+560,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1879
+105,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1052
+68,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1284
+386,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1472
+539,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1687
+450,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1513
+723,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1885
+157,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1688
+396,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1783
+116,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1390
+368,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1850
+1,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1867
+601,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1899
+643,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1366
+424,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1660
+801,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1336
+271,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1857
+603,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1245
+451,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1247
+600,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1855
+374,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1878
+504,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1848
+147,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1927
+501,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1409
+61,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1416
+527,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1495
+664,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1442
+583,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1519
+193,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1258
+345,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1813
+122,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1215
+232,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1126
+11,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1670
+531,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1582
+321,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1822
+507,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1679
+887,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1957
+597,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1576
+334,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1888
+379,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1037
+85,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1103
+557,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1276
+307,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1477
+665,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1303
+467,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1975
+621,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1030
+400,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1351
+438,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1869
+545,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1532
+890,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1653
+804,It's alright but could be better.,Neutral,6,1,1,0,Website A,1685
+796,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1906
+365,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1971
+483,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1101
+797,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1725
+180,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1652
+830,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1727
+969,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1123
+636,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1842
+696,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1172
+885,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1299
+357,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1777
+436,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1074
+475,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1827
+355,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1268
+570,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1438
+667,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1617
+911,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1906
+837,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1005
+415,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1183
+845,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1269
+349,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1256
+767,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1073
+56,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1839
+46,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1834
+654,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1871
+262,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1705
+6,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1735
+688,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1263
+24,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1866
+79,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1668
+776,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1475
+104,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1881
+582,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1293
+656,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1601
+287,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1824
+624,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1992
+481,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1881
+604,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1690
+356,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1687
+247,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1844
+985,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1638
+924,It's alright but could be better.,Neutral,6,1,1,0,Website A,1584
+671,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1831
+614,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1148
+292,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1375
+632,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1998
+129,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1966
+806,It's alright but could be better.,Neutral,6,1,1,0,Website C,1291
+511,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1701
+407,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1313
+110,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1140
+130,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1973
+140,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1246
+816,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1689
+341,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1436
+364,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1517
+425,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1950
+771,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1847
+304,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1411
+534,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1203
+655,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1637
+854,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1547
+66,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1653
+734,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1501
+430,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1263
+859,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1816
+126,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1200
+870,It's alright but could be better.,Neutral,6,1,1,0,Website B,1299
+419,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1368
+768,It's alright but could be better.,Neutral,6,1,1,0,Website B,1745
+849,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1120
+212,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1792
+780,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1112
+858,It's alright but could be better.,Neutral,6,1,1,0,Website C,1099
+657,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1680
+435,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1025
+44,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1128
+566,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1109
+72,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1042
+850,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1245
+333,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1705
+5,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1575
+552,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1341
+989,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1722
+882,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1083
+645,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1654
+493,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1230
+839,It's alright but could be better.,Neutral,6,1,1,0,Website B,1637
+996,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1312
+274,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1945
+695,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1322
+266,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1434
+606,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1696
+972,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1636
+263,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1544
+206,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1143
+464,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1797
+711,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1477
+148,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1324
+939,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1788
+123,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1062
+875,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1905
+293,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1364
+1000,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1513
+376,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1133
+541,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1467
+519,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1640
+873,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1102
+352,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1270
+960,It's alright but could be better.,Neutral,6,1,1,0,Website B,1992
+818,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1114
+712,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1790
+748,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1805
+701,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1337
+220,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1743
+795,It's alright but could be better.,Neutral,6,1,1,0,Website C,1378
+390,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1192
+156,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1082
+480,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1467
+920,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1583
+833,It's alright but could be better.,Neutral,6,1,1,0,Website C,1043
+739,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1454
+404,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1506
+908,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1273
+535,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1606
+35,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1496
+331,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1094
+720,It's alright but could be better.,Neutral,6,1,1,0,Website A,1170
+973,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1832
+125,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1449
+788,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1056
+318,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1067
+852,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1055
+442,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1032
+149,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1228
+802,It's alright but could be better.,Neutral,6,1,1,0,Website B,1766
+678,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1647
+282,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1809
+441,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1097
+76,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1462
+361,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1118
+774,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1607
+478,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1829
+647,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1192
+395,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1769
+710,It's alright but could be better.,Neutral,6,1,1,0,Website A,1696
+805,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1845
+25,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1679
+580,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1564
+354,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1872
+906,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1617
+283,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1339
+203,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1161
+505,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1633
+587,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1943
+255,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1565
+785,It's alright but could be better.,Neutral,6,1,1,0,Website C,1219
+113,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1108
+775,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1609
+773,It's alright but could be better.,Neutral,6,1,1,0,Website B,1166
+344,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1570
+69,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1020
+308,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1676
+705,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1782
+16,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1581
+420,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1264
+326,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1671
+270,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1593
+755,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1957
+592,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1771
+64,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1400
+242,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1408
+190,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1084
+57,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1295
+437,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1983
+479,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1445
+260,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1046
+789,It's alright but could be better.,Neutral,6,1,1,0,Website B,1477
+358,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1402
+827,It's alright but could be better.,Neutral,6,1,1,0,Website C,1185
+935,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1699
+117,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1069
+188,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1369
+332,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1309
+737,It's alright but could be better.,Neutral,6,1,1,0,Website C,1772
+702,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1261
+219,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1730
+50,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1574
+250,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1560
+993,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1844
+280,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1799
+288,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1592
+905,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1032
+410,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1769
+633,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1729
+91,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1343
+55,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1412
+590,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1581
+803,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1376
+323,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1911
+158,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1132
+41,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1502
+753,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1863
+680,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1083
+877,It's alright but could be better.,Neutral,6,1,1,0,Website B,1753
+689,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1041
+779,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1586
+15,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1949
+298,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1528
+666,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1155
+325,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1698
+869,It's alright but could be better.,Neutral,6,1,1,0,Website C,1109
+111,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1435
+679,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1378
+136,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1405
+102,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1682
+153,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1690
+867,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1119
+532,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1154
+347,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1175
+143,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1212
+942,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1235
+4,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1349
+152,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1985
+638,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1521
+546,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1523
+432,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1086
+216,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1716
+520,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1583
+45,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1555
+393,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1459
+387,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1455
+919,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1858
+808,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1455
+938,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1204
+490,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1621
+936,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1095
+565,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1131
+581,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1891
+62,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1065
+500,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1240
+112,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1763
+343,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1888
+857,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1300
+182,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1961
+461,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1119
+913,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1016
+336,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1372
+756,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1517
+342,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1276
+612,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1800
+268,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1554
+453,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1235
+676,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1017
+63,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1122
+959,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1293
+484,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1828
+975,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1578
+894,It's alright but could be better.,Neutral,6,1,1,0,Website C,1884
+790,It's alright but could be better.,Neutral,6,1,1,0,Website B,1721
+815,It's alright but could be better.,Neutral,6,1,1,0,Website A,1824
+384,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1322
+20,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1810
+844,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1570
+119,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1099
+832,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1032
+226,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1325
+909,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1481
+835,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1794
+594,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1359
+901,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1275
+416,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1084
+329,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1373
+517,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1147
+579,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1830
+574,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1689
+251,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1718
+476,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1478
+987,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1283
+107,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1275
+253,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1135
+485,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1412
+327,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1117
+812,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1745
+375,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1883
+998,It's alright but could be better.,Neutral,6,1,1,0,Website A,1072
+236,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1789
+690,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1997
+249,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1898
+370,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1513
+151,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1309
+642,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1308
+198,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1228
+625,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1690
+651,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1164
+108,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1947
+724,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1860
+718,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1450
+60,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1739
+841,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1438
+588,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1717
+799,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1375
+558,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1842
+628,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1745
+564,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1877
+456,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1310
+855,It's alright but could be better.,Neutral,6,1,1,0,Website C,1307
+650,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1789
+889,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1080
+602,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1791
+496,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1764
+814,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1301
+826,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1138
+899,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1089
+515,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1586
+426,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1689
+133,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1963
+549,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1553
+197,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1859
+313,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1600
+460,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1151
+961,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1126
+956,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1562
+168,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1582
+166,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1472
+988,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1517
+892,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1778
+703,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1066
+640,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1973
+397,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1443
+714,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1736
+943,It's alright but could be better.,Neutral,6,1,1,0,Website B,1613
+831,It's alright but could be better.,Neutral,6,1,1,0,Website A,1399
+314,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1909
+362,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1333
+823,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1358
+798,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1020
+772,It's alright but could be better.,Neutral,6,1,1,0,Website A,1005
+578,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1476
+506,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1071
+912,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1093
+828,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1314
+59,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1130
+161,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1206
+741,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1500
+595,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1471
+233,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1438
+983,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1297
+289,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1192
+846,It's alright but could be better.,Neutral,6,1,1,0,Website C,1080
+708,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1204
+488,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1917
+27,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1684
+731,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1039
+36,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1831
+933,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1863
+910,It's alright but could be better.,Neutral,6,1,1,0,Website A,1007
+489,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1731
+417,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1091
+75,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1757
+494,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1647
+290,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1521
+686,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1271
+728,It's alright but could be better.,Neutral,6,1,1,0,Website B,1893
+137,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1416
+921,It's alright but could be better.,Neutral,6,1,1,0,Website B,1800
+457,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1508
+599,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1846
+886,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1260
+871,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1766
+719,It's alright but could be better.,Neutral,6,1,1,0,Website B,1623
+218,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1211
+764,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1349
+760,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1413
+675,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1514
+941,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1093
+736,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1690
+673,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1754
+971,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1549
+412,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1709
+641,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1522
+550,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1333
+423,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1402
+240,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1319
+791,It's alright but could be better.,Neutral,6,1,1,0,Website A,1857
+235,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1211
+842,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1630
+929,It's alright but could be better.,Neutral,6,1,1,0,Website A,1340
+786,It's alright but could be better.,Neutral,6,1,1,0,Website A,1102
+691,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1351
+669,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1271
+77,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1421
+865,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1348
+529,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1459
+757,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1028
+610,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1483
+977,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1196
+89,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1123
+947,It's alright but could be better.,Neutral,6,1,1,0,Website A,1051
+9,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1321
+851,It's alright but could be better.,Neutral,6,1,1,0,Website B,1506
+677,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1842
+649,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1748
+99,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1790
+752,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1143
+811,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1998
+618,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1942
+498,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1723
+409,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1533
+372,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1629
+856,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1720
+13,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1072
+945,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1687
+380,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1736
+563,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1260
+932,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1819
+754,It's alright but could be better.,Neutral,6,1,1,0,Website A,1835
+991,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1632
+627,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1107
+927,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1675
+979,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1636
+525,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1951
+199,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1797
+575,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1503
+243,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1190
+54,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1136
+301,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1734
+455,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1925
+391,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1861
+746,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1241
+144,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1877
+968,It's alright but could be better.,Neutral,6,1,1,0,Website A,1664
+258,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1567
+257,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1536
+86,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1106
+234,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1592
+820,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1158
+866,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1722
+360,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1098
+652,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1129
+447,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1434
+672,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1096
+615,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1653
+571,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1834
+205,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1790
+634,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1884
+687,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1329
+555,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1726
+383,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1066
+127,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1018
+684,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1587
+713,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1056
+139,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1604
+487,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1906
+548,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1087
+97,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1364
+202,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1879
+783,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1924
+392,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1090
+338,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1340
+231,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1154
+589,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1353
+208,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1666
+405,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1829
+367,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1762
+853,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1142
+860,It's alright but could be better.,Neutral,6,1,1,0,Website C,1146
+172,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1395
+228,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1269
+709,It's alright but could be better.,Neutral,6,1,1,0,Website A,1092
+359,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1789
+335,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1120
+725,It's alright but could be better.,Neutral,6,1,1,0,Website B,1987
+246,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1000
+411,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1084
+637,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1800
+181,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1975
+692,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1549
+809,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1470
+154,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1738
+98,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1627
+373,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1170
+70,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1459
+836,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1081
+769,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1648
+482,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1629
+176,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1122
+980,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1323
+955,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1892
+694,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1636
+3,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1407
+150,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1617
+629,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1630
+685,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1060
+907,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1030
+742,It's alright but could be better.,Neutral,6,1,1,0,Website A,1797
+491,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1126
+957,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1685
+963,It's alright but could be better.,Neutral,6,1,1,0,Website C,1077
+297,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1159
+777,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1489
+175,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1033
+302,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1979
+470,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1430
+918,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1581
+992,It's alright but could be better.,Neutral,6,1,1,0,Website A,1465
+883,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1113
+74,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1316
+103,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1773
+273,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1096
+944,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1847
+934,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1689
+952,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1605
+32,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1496
+449,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1593
+759,It's alright but could be better.,Neutral,6,1,1,0,Website C,1437
+215,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1861
+661,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1858
+330,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1443
+468,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1686
+78,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1240
+132,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1986
+569,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1557
+254,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1734
+876,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1538
+495,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1891
+21,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1870
+559,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1962
+265,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1097
+163,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1000
+14,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1878
+445,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1120
+717,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1768
+864,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1719
+518,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1955
+533,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1013
+881,"The product is okay, nothing special.",Neutral,6,2,1,0,Website A,1659
+446,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website A,1135
+134,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1409
+399,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1158
+115,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1341
+84,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1156
+51,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1087
+761,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1352
+617,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1312
+187,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1934
+443,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1246
+880,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1119
+817,It's alright but could be better.,Neutral,6,1,1,0,Website C,1010
+351,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1564
+502,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1461
+497,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1929
+674,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1332
+878,It's alright but could be better.,Neutral,6,1,1,0,Website C,1863
+537,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1572
+778,It's alright but could be better.,Neutral,6,1,1,0,Website A,1164
+303,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1443
+607,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1982
+930,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1886
+278,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1253
+317,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1595
+503,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1134
+591,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1447
+747,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1592
+469,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1133
+92,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1991
+422,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1815
+466,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1753
+239,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1954
+997,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1914
+183,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website C,1287
+609,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1849
+716,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1060
+544,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1040
+683,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1807
+732,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1863
+448,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1500
+733,It's alright but could be better.,Neutral,6,1,1,0,Website C,1728
+100,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1383
+819,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1956
+171,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1432
+620,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1492
+31,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1382
+210,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website C,1380
+605,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1554
+543,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1439
+891,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1065
+895,It's alright but could be better.,Neutral,6,1,1,0,Website A,1894
+244,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1734
+433,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1695
+982,"The product is okay, nothing special.",Neutral,6,2,1,0,Website C,1130
+729,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1609
+471,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1434
+577,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1121
+316,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1501
+750,It's alright but could be better.,Neutral,6,1,1,0,Website C,1260
+95,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1580
+275,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1799
+623,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1008
+7,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1688
+584,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1926
+337,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website B,1369
+276,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1767
+160,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1631
+726,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1673
+838,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1342
+722,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1477
+974,It's alright but could be better.,Neutral,6,1,1,0,Website C,1458
+369,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1043
+763,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1384
+131,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1207
+40,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1260
+888,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1703
+177,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1042
+418,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1304
+434,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1738
+658,One star. Would not buy again.,Negative,6,2,2,-1,Website B,1692
+659,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1901
+398,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1106
+522,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1322
+721,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1734
+118,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1618
+281,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1033
+848,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1216
+925,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1287
+486,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1154
+898,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website A,1032
+567,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1792
+586,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1887
+879,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1102
+300,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1811
+727,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1419
+452,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website A,1753
+10,Exceeded my expectations in every way.,Positive,6,1,1,1,Website A,1074
+454,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1130
+840,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1308
+744,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1198
+897,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1655
+660,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1861
+513,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1054
+414,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website C,1584
+847,It's alright but could be better.,Neutral,6,1,1,0,Website A,1675
+682,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1791
+328,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1160
+350,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1032
+510,One star. Would not buy again.,Negative,6,2,2,-1,Website A,1430
+324,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1598
+285,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1706
+311,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1359
+758,"It works as expected, no complaints.",Neutral,6,2,1,0,Website C,1847
+94,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1966
+12,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1915
+227,Great quality and excellent customer service.,Positive,6,1,1,1,Website A,1633
+923,"The product is okay, nothing special.",Neutral,6,2,1,0,Website B,1306
+309,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1460
+346,Exceeded my expectations in every way.,Positive,6,1,1,1,Website C,1306
+896,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1309
+310,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1738
+2,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1861
+524,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website C,1292
+681,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1425
+295,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1447
+135,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1294
+248,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1754
+339,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1763
+83,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website C,1589
+267,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1774
+863,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website C,1536
+954,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1031
+608,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website B,1032
+551,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1725
+536,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website A,1852
+245,Great quality and excellent customer service.,Positive,6,1,1,1,Website B,1050
+770,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website B,1770
+749,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1498
+463,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website C,1821
+538,One star. Would not buy again.,Negative,6,2,2,-1,Website C,1623
+403,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website A,1315
+465,Extremely dissatisfied with the service.,Negative,5,1,1,-1,Website B,1644
+174,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1612
+207,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1623
+204,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website A,1954
+65,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1131
+596,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1017
+195,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website A,1369
+49,Five stars! Perfect product and quick delivery.,Positive,7,2,2,1,Website B,1364
+299,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1729
+353,Exceeded my expectations in every way.,Positive,6,1,1,1,Website B,1896
+214,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1715
+217,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1854
+101,Absolutely loved this product! Highly recommend it.,Positive,7,2,2,1,Website A,1124
+940,Neutral feelings about this purchase.,Neutral,5,1,1,0,Website A,1996
+893,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1841
+922,"It works as expected, no complaints.",Neutral,6,2,1,0,Website B,1948
+874,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website B,1832
+431,Worst purchase ever. Do not recommend.,Negative,6,2,2,-1,Website C,1131
+782,It's alright but could be better.,Neutral,6,1,1,0,Website A,1414
+444,Product broke after just one use. Waste of money.,Negative,9,2,2,-1,Website B,1690
+42,"Fantastic experience, would buy again!",Positive,5,2,1,1,Website B,1486
+792,"It works as expected, no complaints.",Neutral,6,2,1,0,Website A,1298
+87,Great quality and excellent customer service.,Positive,6,1,1,1,Website C,1482
+516,"Terrible quality, completely disappointed.",Negative,4,2,1,-1,Website B,1060
+793,"Average experience, not too bad but not great.",Neutral,8,2,1,0,Website C,1172
+745,It's alright but could be better.,Neutral,6,1,1,0,Website A,1624
+958,It's alright but could be better.,Neutral,6,1,1,0,Website B,1381
+1001,One star. Would not buy again.,Positive,19,4,8,0,Website A,1269
+1002,Extremely dissatisfied with the service.,Neutral,5,3,6,1,Website C,1893
+1003,It's alright but could be better.,Neutral,16,5,5,1,Website B,1402
+1004,Great quality and excellent customer service.,Negative,16,3,1,0,Website C,1354
+1005,It's alright but could be better.,Neutral,20,1,2,-1,Website B,1523
+1006,"It works as expected, no complaints.",Negative,17,5,5,-1,Website C,1816
+1007,One star. Would not buy again.,Positive,19,4,3,-1,Website A,1694
+1008,Absolutely loved this product! Highly recommend it.,Negative,17,3,8,1,Website B,1572
+1009,It's alright but could be better.,Negative,14,1,1,0,Website B,1767
+1010,"It works as expected, no complaints.",Neutral,10,1,5,-1,Website A,1061

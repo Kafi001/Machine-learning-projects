@@ -1,0 +1,23 @@
+├── customer-purchase-prediction/
+│   ├── data/
+│   │   └── customer_data.csv
+│   ├── notebooks/
+│   │   └── purchase_prediction.ipynb
+│   ├── results/
+│   │   └── metrics.txt
+│   └── README.md
+│
+├── customer-segmentation/
+│   ├── data/
+│   ├── notebooks/
+│   ├── results/
+│   └── README.md
+│
+├── sentiment-analysis/
+│   ├── data/
+│   ├── notebooks/
+│   ├── results/
+│   └── README.md
+│
+├── requirements.txt
+└── README.md   ← main repo README
